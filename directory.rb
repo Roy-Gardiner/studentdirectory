@@ -16,3 +16,6 @@ puts "Makis Otman"
 puts "Nabin Rai"
 puts "Peter Saxton"
 puts "Kalle Malmiharju"
+print "Overall, we have "
+print 9
+puts " great students"
